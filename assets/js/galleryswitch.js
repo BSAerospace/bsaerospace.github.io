@@ -1,6 +1,6 @@
 var i = 0;
 var images = [];
-var slideTime = 2500; // 5 seconds
+var slideTime = 3500; // 5 seconds
 var header = document.getElementById('header');
 
 images[0] = 'https://i.postimg.cc/5NsGh2XL/img5.png';
