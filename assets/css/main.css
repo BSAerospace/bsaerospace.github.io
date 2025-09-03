@@ -2896,6 +2896,18 @@ input, select, textarea {
 			line-height: 1.5em;
 		}
 
+	li.style1 {
+			color: #676c7a;
+			display: list-item;
+			text-align: left;
+			padding: 0;
+			list-style-position: inside;
+			margin: .25em 0 0 0;
+			font-size: 1.3em;
+			letter-spacing: 0.075em;
+			list-style-type: disc;
+	}
+
 	header.style5 {
 		text-align: center;
 		padding: 3em 0 3em 0;
@@ -4679,5 +4691,10 @@ input, select, textarea {
 	.square2 {
 		overflow: hidden;
 		background-color: #071a34;
+		width: 100%;
+	}
+
+	.vplayer {
+		aspect-ratio: 16/9;
 		width: 100%;
 	}
